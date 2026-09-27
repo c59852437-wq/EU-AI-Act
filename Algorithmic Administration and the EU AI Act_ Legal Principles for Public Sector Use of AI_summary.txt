@@ -1,0 +1,76 @@
+Algorithmic Administration and the EU AI Act: Legal
+Principles for Public Sector Use of AI
+Ioannis Kastanas*1, Georgios Pavlidis (corresponding author)*2
+*Jean Monnet Center of Excellence AI-2-TRACE-CRIME,
+Neapolis University Pafos
+The increasing use of artificial intelligence (AI) by public authorities
+introduces both opportunities for innovation and significant challenges for the
+administrative rule of law. This article examines how the EU AI Act interacts
+with the fundamental principles of administrative law, with a particular focus
+on administrative discretion, the duty to state reasons, and the principle of
+proportionality. The article analyses the regulatory obligations imposed by the
+AI Act on public sector deployers of high-risk systems, especially in sensitive
+domains such as social benefits, migration, education, and law enforcement.
+It also explores whether the AI Act adequately ensures accountability,
+transparency, and reviewability in automated public decision-making. The
+article further considers how the AI Act’s risk-based approach aligns (or fails
+to align) with the principle of proportionality and it proposes safeguards and
+interpretative strategies to ensure the ethical and lawful deployment of AI in
+the public sector.
+Keywords: public administration, artificial intelligence, AI Act, accountability,
+transparency
+Acknowledgement: This study was prepared in the context of the Jean Monnet
+Center of Excellence AI-2-TRACE-CRIME and was funded by the European
+Union. Views and opinions expressed are however those of the authors only
+and do not necessarily reflect those of the European Union or the European
+Education and Culture Executive Agency (EACEA). Neither the European
+Union nor EACEA can be held responsible for them.
+1 Lecturer of Public Law, Team Member of the Jean Monnet Center of Excellence AI-2-
+TRACE-CRIME, Neapolis University Pafos, Cyprus, Email: i.kastanas.9@nup.ac.cy
+2 Associate Professor of International and EU Economic Law, UNESCO Chair & Jean
+Monnet Chair, School of Law, Neapolis University Pafos, Cyprus, Email: g.pavlidis@nup.
+ac.cy
+Journal of Ethics and Legal Technologies – Volume 7(2) – November 2025
+1. Introduction
+The deployment of artificial intelligence (AI) systems in public administra-
+tion has the potential to transform the exercise of administrative authority
+and the delivery of public services. From welfare benefits and tax audits
+to immigration control and predictive policing, AI tools are being adopt-
+ed to enhance administrative efficiency and to improve resource allocation
+in the public sector (Agarwal, 2018). The use of AI promises to automate
+decision-making processes in public administration, manage large datasets
+in the public sector, and deliver services at scale more effectively. Yet this
+algorithmic turn in the public sector has also raised ethical and legal, even
+constitutional, concerns. High-profile failures—such as the Dutch childcare
+benefits scandal (Toeslagenaffaire), where risk-scoring algorithms falsely la-
+belled thousands of families as fraudsters, or the use of opaque decision-sup-
+port tools in procedures of asylum— have demonstrated how public admin-
+istrations, their personnel, and their technology can reproduce or exacerbate
+existing biases. Such practices may erode public trust in institutions and
+cause significant harm to individuals, particularly those in vulnerable situ-
+ations.
+The European Union (EU) has sought to respond to these concerns through
+the AI Act,3 adopted in 2024. The Act which establishes a risk-based regu-
+latory framework for the development, placing on the market, and use of
+AI systems. It explicitly includes within its scope high-risk systems used by
+public authorities, such as those affecting access to education, employment,
+welfare, law enforcement, and migration. It imposes specific obligations not
+only on providers of AI systems, but also on deployers, which can be public
+bodies. Among these obligations, the AI Act requires providers and deploy-
+ers of AI to ensure meaningful human oversight, maintain detailed docu-
+mentation, and uphold fundamental rights.
+This article investigates the deployment of AI in public administration
+through the lens of administrative law. It explores how the AI Act regulates
+the use of AI systems by public authorities, the extent to which algorith-
+mic decision-making challenges core principles of administrative law and
+whether the safeguards introduced by the AI Act offer sufficient protection
+for individuals subject to automated decisions.
+3 Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024
+laying down harmonised rules on artificial intelligence (Artificial Intelligence Act), OJ L,
+2024/1689, 12.7.2024,
+60
+Journal of Ethics and Legal Technologies – Volume 7(2) – November 2025
+2. Automated Decision-Making in Public Administration: An
+Administrative Law Perspective
+Public administrations worldwide have gradually adopted technological
+tools, establ

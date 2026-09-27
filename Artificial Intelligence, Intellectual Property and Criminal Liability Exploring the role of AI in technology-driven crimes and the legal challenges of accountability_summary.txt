@@ -1,0 +1,69 @@
+I J S E
+2026, 41(11s), 1456-1469 NTERNATIONAL OURNAL of PECIAL DUCATION
+_________________________________________________________________________________________
+Artificial Intelligence, Intellectual Property and Criminal Liability:
+Exploring the role of AI in technology-driven crimes and the legal
+challenges of accountability
+1Ms. Shreya Pandey, 2Mr. Anurag Singh Chauhan, 3Dr. Bhawna Singh
+Baghel
+1PhD Research Scholar, Dharmshahstra National Law University, Jabalpur M.P.
+2Asistant Professor, school of law, PIMR Indore M.P.
+3Asistant Professor, school of law, PIMR Indore M.P.
+COPYRIGHT STATEMENT: ABSTRACT:
+Copyright: © 2026 Authors. The rapid advancement of Artificial Intelligence (AI) has transformed
+innovation, automation, and intellectual property (IP) creation while
+Open access publication under the
+simultaneously facilitating technology-driven crimes such as deep fakes,
+terms and conditions cyber fraud, automated piracy, and IP infringement. Existing criminal law
+frameworks, which primarily rely on the principles of actus reus and mens
+of the Creative Commons Attribution (CC BY)
+rea, face significant challenges in attributing criminal liability when
+license (http://creativecommons. offences involve autonomous or semi-autonomous AI systems. This
+org/licenses/by/4.0/). study examines the legal accountability of AI in technology-related
+offences, particularly those involving intellectual property violations, and
+explores the liability of developers, users, deployers, and corporations in
+the absence of AI legal personality. Adopting a doctrinal, comparative,
+and analytical research methodology, the study analyses statutory
+provisions, judicial decisions, policy frameworks, and scholarly literature
+from India, the European Union, the United States, and the United
+Kingdom. The findings reveal that existing criminal and intellectual
+property laws are inadequate to address the complex distribution of
+responsibility arising from AI-enabled offences. Comparative analysis
+demonstrates that while several jurisdictions have introduced regulatory
+measures to govern AI, significant accountability gaps remain due to the
+absence of harmonized legal standards. The study proposes a hybrid
+liability framework incorporating elements of strict and vicarious liability,
+algorithmic transparency, audit mechanisms, explain ability, and human
+oversight to strengthen accountability. It concludes that an adaptive and
+internationally coordinated legal framework is essential to balance
+technological innovation with effective criminal enforcement and
+intellectual property protection in the evolving AI ecosystem.
+Keywords: Artificial Intelligence, Intellectual Property, Technology-
+related offences. Criminal Liability, Intellectual Property, AI Accountability
+__________________________________________________________________________________
+1456
+www.internationalsped.com
+I J S E
+2026, 41(11s), 1456-1469 NTERNATIONAL OURNAL of PECIAL DUCATION
+_________________________________________________________________________________________
+1. Introduction
+John McCarthy, who is regarded as ‘the father of Artificial intelligence’ has defined Artificial Intelligence(AI) as
+‘the science and engineering of making intelligent machines, especially intelligent computer programs’1. In
+other words, AI can be defined as the capability of a machine to imitate intelligent human behavior by way
+of data that is feed into it.
+AI can be categorized into two main types: narrow and general AI. Narrow AI which is also called weak AI
+is the AI that is built to perform certain specific functions and which we use on daily basis, examples may
+include voice assistant etc. General AI which is also known as strong AI can perform across various
+domains and can outperform humans.2
+With the rise of usage of AI worldwide, the AI is also increasingly being used in criminal activities like deep-
+fake, cybercrime, hacking, digital arrest etc. Due to AI, it is difficult to trace criminal and attribute liability
+which is a major challenge. Federal Bureau of Investigation of the USA in its 2025 report observed that
+around 20 billion dollars were defrauded by using AI to commit cybercrimes in the USA.3 Reports also
+suggest that AI- enabled ransomware attacks reached record levels in 2025-2026, which were used in
+automated phishing attacks, identification of system vulnerabilities by automated AI attacks4. AI is also
+widely used in deep-fake pornography targeting women, children.5
+In a recent case of Ahmedabad, India, AI was used by the criminals in identity theft to manipulate Aadhar-
+linked data. The accused generated fake facial blink videos from photographs to bypass KYC verification.
+They got access to Digi locker, banking data , financial data.6 Recently, Shashi Tharoor has approached
+Delhi High Court seeking protection against deep-fake videos that allegedly violated his personality
+rights.7Many high-profile celebrities have approached Courts to protect them against misuse of

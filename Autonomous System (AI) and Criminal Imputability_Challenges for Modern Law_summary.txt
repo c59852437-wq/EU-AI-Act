@@ -1,0 +1,75 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/396561856
+Autonomous Systems (AI) and Criminal Imputability: Challenges for Modern
+Law
+Article in International Journal of Research and Review · October 2025
+DOI: 10.52403/ijrr.20251029
+CITATIONS READS
+0 17
+1 author:
+Enrico Moch
+45 PUBLICATIONS 68 CITATIONS
+SEE PROFILE
+All content following this page was uploaded by Enrico Moch on 17 October 2025.
+The user has requested enhancement of the downloaded file.
+International Journal of Research and Review
+[Indexed, Peer-Reviewed Journal]
+Volume 12; Issue: 10; October 2025
+Website: www.ijrrjournal.com
+Review Paper E-ISSN: 2349-9788; P-ISSN: 2454-2237
+Autonomous Systems (AI) and Criminal
+Imputability: Challenges for Modern Law
+Enrico Moch, PhD
+Academic Director, Department of Laws, GrandEdu Research School, Germany
+Corresponding Author: Dr Enrico Moch, E-Mail: Enrico.Mocch@GrandEduResearchschool.de
+DOI: https://doi.org/10.52403/ijrr.20251029
+ABSTRACT order. Criminal law retains its authority if it
+makes responsibility visible, enforces
+Autonomous systems are changing the transparency and upholds human dignity as
+foundations of criminal liability. Where the limit of technical power to act. It remains
+machines act autonomously, normative gaps the guarantor of human freedom in an
+arise that put the principle of culpability to a increasingly automated world.
+new test. This paper explores the question of
+how criminal imputability can be Keywords: Autonomous systems;
+reconstructed under the conditions of imputability under criminal law; artificial
+technical autonomy. It pursues the goal of intelligence; culpability principle;
+determining the prerequisites of a criminal organisational responsibility; responsibility
+law that can react to autonomous systems gap; auditability; human dignity;
+without losing its normative identity. The international regulation; AI Act
+study follows a comparative dogmatic
+methodology. It combines classical legal 1 INTRODUCTION
+analysis with interdisciplinary approaches to Autonomous systems present criminal law
+reflection and is based on contrasting case with one of its most profound tests. Where
+studies in the fields of transport, medicine machines make decisions autonomously,
+and the military. These sectors are exemplary zones of normative uncertainty arise. The
+for high-risk areas in which technical classic logic of attribution, based on action,
+systems directly intervene in protected legal intent and guilt, is shaken when decisions are
+interests and thus enable generalisable made by learning systems whose functioning
+statements about responsibility and guilt. is only comprehensible to a limited extent,
+The results show that criminal imputability even to experts. This shifts the centre of
+remains possible even in the age of artificial criminal responsibility. It no longer lies
+autonomy if it is normatively re-anchored by solely in the individual act of will, but in the
+preventive structures. The basis remains organisation of technical power.
+action, causality, intent, negligence and This shift affects the foundation of the rule of
+culpability, supplemented by organisational law. The principle of guilt is not just a dogma
+obligations, auditability and verifiability. of criminal law, but an expression of an idea
+The AI Act and the Product Liability of responsibility that sees people as acting,
+Directive 2024 create the framework for understanding and taking responsibility for
+preventive responsibility at European level. their actions. However, when systems act
+Internationally, human rights standards, in without intending to and produce effects
+particular Article 1 GG, Article 2 ECHR and without understanding, a responsibility gap
+Article 36 ZP I, ensure the legitimacy of this arises. This gap threatens not only dogmatics,
+International Journal of Research and Review (ijrrjournal.com) 287
+Volume 12; Issue: 10; October 2025
+Enrico Moch, PhD. Autonomous systems (AI) and criminal imputability: challenges for modern law
+but also trust in the ability of law to bind normative terms. The starting point is the
+technical development normatively. question of how imputability under the
+This study examines the question of how conditions of technical autonomy can be
+criminal accountability can be reconstructed reconstructed under the rule of law. The
+under the conditions of technical autonomy. current criminal law, i.e. de lege lata, is
+It does not seek a fusion of man and machine, systematically analysed and at the same time
+but rather a standard that preserves human supplemented by legal policy perspectives,
+responsibility in a digitalised world. The aim i.e. de lege ferenda.
+is to determine the prerequisites for a The dogmatic method serves to clarify
+criminal law that can react to autonomous normative structures. Action, causality,
+systems without losing its own normative intent, negligence and guilt form the
+identity. framework against which ne

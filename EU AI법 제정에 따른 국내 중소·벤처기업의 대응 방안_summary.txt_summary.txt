@@ -1,0 +1,52 @@
+비즈니스융복합연구 제10권 제2호(2025년 4월), 329~335, ISSN 2765-401X http://dx.doi.org/10.31152/JB.2025.04.10.2.329
+Journal of Business Convergence, Vol.10, No.2(April, 2025), 329~335
+EU AI법 제정에 따른 국내 중소·벤처기업의 대응 방안*
+1)
+Strategic Response for SMEs & Startups Following the Enactment of EU AI Act
+차 경 진(Cha, Kyungjin)** · 손 민 정(Shon, Minjung)***
+본 연구는 세계 최초의 포괄적 AI 규제 법안인 EU AI법의 주요 내용을 분석하고, 이를 기반으로 국내 중소기업과 스타트업에 미치는 영향을 평가하며 정책적 대응 방안을 제시하
+는 것을 목표로 한다. EU AI법은 AI 기술의 윤리적, 사회적, 기술적 문제를 해결하고 산업 육성을 위한 규제 틀을 제공하며, 고위험 AI 시스템을 포함한 다양한 위험 수준에 따라 규제
+를 단계적으로 적용한다. 특히 중소기업과 스타트업에 대해 규제 완화와 성장 지원을 강조하지만, 규제 준수 부담과 투자 차별 등 우려도 존재한다. 따라서 본 연구는 크게 세 파트로
+구성된다. EU AI법에 대한 주요 내용을 살펴보고 중소기업과 스타트업의 규제 완화에 대한 부분을 검토하는 부분과 국내 언론 분석을 통해 EU AI법에 대한 사회적 반응과 감정을 파
+악하고, 관련 키워드 및 토픽 모델링을 통해 주요 이슈를 도출하며, 마지막으로 분석을 기반으로 정책적 제언을 하는 것으로 구성하였다. 그 결과 국내에서는 EU AI법이 기술 발전과
+윤리적 문제 해결 사이에서 균형을 찾는 것이 중요한 과제로 인식되고 있으며, 중소기업 지원책 마련과 법적 기반 구축이 시급함을 확인하였다. 또한 국내에서 이루어진 22대 국회의
+인공지능 관련 법안 발의 및 제정 현황을 검토하며, 중소기업 지원 방향으로 교육 및 자금 지원과 중소기업 참여 활성화를 강조하였다. 이를 통해 국내 AI 산업이 글로벌 경쟁에서 뒤
+처지지 않도록 기술개발의 자유도를 높이고 네거티브 방식의 규제를 도입하는 필요성을 제시하였다. EU AI법은 규제 및 컴플라이언스 측면에서 기업의 부담이 있기도 하지만, 기술
+개발과 혁신의 환경 변화 차원에서는 장기적으로 중요한 틀이라고 볼 수 있다. EU 시장에 진출하려는 기업을 위하여 EU의 규제 샌드박스 참여 방안 모색, EU AI법 적용 사례 분석 등
+의 전략이 필요하며, 규제와 혁신의 균형을 고려한 국내 AI 관련 규제 및 지원 정책이 필요할 것이다. 또한 국내 중소·벤처기업이 글로벌 경쟁력을 확보할 수 있도록 AI 기술평가 시스
+템 또는 정보 제공 플랫폼 구축이 필요할 것이다.
+주제어: EU AI법, 중소·벤처기업, 토픽 모델링, 감성 분석, AI 기본법
+This study aims to analyze the main contents of the EU AI Act, the world's first comprehensive AI regulatory bill, and to evaluate its impact on domestic SMEs and
+startups based on this and to suggest policy response measures. The EU AI Act provides a regulatory framework for resolving ethical, social, and technical issues of AI
+technology and fostering the industry, and gradually applies regulations according to various risk levels, including high-risk AI systems. In particular, it emphasizes
+deregulation and growth support for SMEs and startups, but there are also concerns about regulatory compliance burden and investment discrimination. Therefore, this
+study is largely composed of three parts. It examines the main contents of the EU AI Act and examines the deregulation of SMEs and startups, analyzes domestic media to
+identify social reactions and sentiments on the EU AI Act, derives key issues through related keywords and topic modeling, and finally makes policy suggestions based on
+the analysis. As a result, it was confirmed that in Korea, EU AI Act is recognized as an important task to find a balance between technological development and solving
+ethical issues, and that it is urgent to prepare SME support measures and establish a legal foundation. In addition, the status of the 22nd National Assembly's proposal
+and enactment of AI-related bills in Korea was reviewed, and education and financial support and activation of SME participation were emphasized in the direction of
+supporting SMEs. Through this, the necessity of increasing the freedom of technological development and introducing negative regulations was suggested so that the
+domestic AI industry does not fall behind in global competition. Although the EU AI law imposes a burden on companies in terms of regulation and compliance, it can be
+seen as an important framework in the long term in terms of environmental changes in technological development and innovation. For companies seeking to enter the EU
+market, strategies such as seeking ways to participate in the EU's regulatory sandbox and analyzing cases of application of the EU AI law are necessary, and domestic
+AI-related regulations and support policies that consider the balance between regulation and innovation will be necessary. In addition, it will be necessary to establish an
+AI technology evaluation system or information provision platform so that domestic SMEs and venture companies can secure global competitiveness.
+Key words: EU AI Act, SMEs, startups, topic modelling, sentiment analysis, AI Framework Act
+논문투고일: 2025. 3. 20. 수정접수일: 2025. 4. 10. 게재확정일: 2025. 4. 11.
+* 이 논문은 중소벤처기업연구원의 2024년 자율연구 과제 “EU AI법 제정에 따른 중소기업의 대응방안” 일환으로 수행되었음
+** 중소벤처기업연구원 연구위원(Research Fellow, Korea SMEs & Startups Institute, E-mail: kjcha@kosi.re.kr), 제1저자
+*** 경기대학교 경제학부 지식재산학전공 조교수(Assistant Professor, Kyonggi University, E-mail: mjshon@kyonggi.ac.kr), 교신저자
+- 329 -
+비즈니스융복합연구 제10권 제2호(2025년 4월), 329~335
+I. 서 론 II. EU AI법 해석 및 연구 동향
+2016년 3월, 구글 딥마인드의 알파고(AlphaGo)는 인간을 상대로 바둑 대결을 펼쳐 1. EU AI법의 제정 배경
+승리를 거두면서 AI(Artificial Intelligence)가 복잡한 전략 게임에서 인간을 능가할 수
+유럽연합이 인공지능 시스템의 개발, 배포 및 사용을 규제하기 위해 만든 세계 최초
+있음을 보여준 충격적인 결과였다. 이는 AI 연구에 대한 기폭제가 되었고 대규모 언어
+의 포괄적인 법률 프레임워크가 EU AI법이다. AI 기술의 급격한 발전과 AI 기술개발에
+모델의 기반이 되는 트랜스포머 모델이 등장하는 등 관련 기술에 대한 투자와 연구가
+대한 우려가 커지며 EU AI법은 디지털 규제의 중요한 기준이 될 것이다. 유럽은 AI법 외
+가속화되었다(Fui-Hoon Nah, Zheng, Cai, Siau and Chen 2023; Zastrow 2016). 우리나
+에도 디지털서비스법(Digital Service Act), 디지털시장법(Digital Market Act)을 통해 디
+라는 2016년 AI 연구개발에 1조 원 규모의 투자계획을 발표하였고, 중국은 2017년 ‘차
+지털 플랫폼, 빅테크 기업의 독점에 대한 규제법을 도입했다. 이에 따라

@@ -1,0 +1,98 @@
+24-20-®
+유럽연합 인공지능법
+(EU Al ACT)의 특성과 쟁점
+우리나라 인공지능 입법에 대한 시사점
+라기 원
+1 한국법제연구원
+24-20-®
+유럽연합 인공지능법
+(EU Al ACT)의 특성과 쟁점
+우리나라 인공지능 입법에 대한 시사점
+라기 원
+한국법제연구원 부연구위원
+■mmf 한국법제연구원
+CONTENTS
+깩
+I 서론 04
+n
+유럽연합 인공지능법의 형성 연혁과 특성 〇 5
+1. 유럽연합의 인공지능 관련 법제 형성 과정 05
+2. 유럽연합 인공지능법의 특성 07
+m
+유럽연합 인공지능법의 쟁점별 분석 10
+1. 목적과 적용범위 10
+2. 정의 규정 11
+3. 위험 기반 규제 12
+4. 거버넌스 26
+5. 제재수단 27
+& 산업 진흥 목적의 제도 29
+유럽연합 인공지능법(EU Al ACT)의 톡성과 쟁점
+W
+IV 우리나라 인공지능 입법에 대한 시사점 31
+1. 인공지능 규범의형성 연혁 31
+2. 인공지능 기본법안에 대한 시사점 32
+V 결론 36
+Artificial Intelligence Issue paper
+I ■ 서론
+인공지능(Artificial Intelligence, 이하 ‘Al’) 규제의 규범히를 향한 글로벌 경쟁이 심화되고 있다. 2024년 스탠포드
+대학교 AI 연구소에서 발표한 AI 지표에 따르면, 지표를 산정한 2016년도로부터 2022년도까지 전 세계 AI 규제의
+규범호[는 점진적으로 진행되었지만, 2023년 유럽연합과 미국이 시에 관한 중대한 규제 입법안을 내놓으며 규범화
+경쟁이 가속화되었고 유럽 의회에서 2024. 3.13. 최초의 인공지능에 관한 포괄적 규제인 유럽연합 인공지능법(미
+AI Act, 이하 ‘EU AI 법 f 합의안이 승인 결의되며 전 세계 인공지능 규범 경쟁에서 가장 상징적이고 역사적 의미를
+갖는 랜드마크가 세워졌다.1 2) 현재 EU AI 법은 전 세계 AI 기술에 대한 규제 방향에 상당한 영향력을 미치고 있다.3>
+영국은 AI 기술에 대한 규제영향평가에서 EU AI 법을 규제안 중 최대 규제인 4단계 규제로 설정하고 자국에 적합한
+인공지능 규제안을 검토하였는데,4) 이처럼 AI 기술에 대한 강한 규제의 성격을 갖는 EU AI 법을 분석하는 것은
+우리나라에 적합한 규범을 마련하는데 중요한 평가 지표로 기능할 수 있다. 본문에서는 EU AI 법의 제정 연혁 및
+주요 특성을 입법 목적과 정의규정, 위험 기반(Risk-based) 규제 내용을 중심으로 분석하고 우리나라 인공지능
+입법에 대한 시사점을 살펴본다.
+1) 유럽연합 인공지능법은 유럽연합의 2차 법원(法源)인 규정(Regulation)의 형식을 채택하고 있다.(REGULATION OF THE EUROPEAN PARLIAMENT
+AND OF THE COUNCIL LAYING DOWN HARMONISED R니LES ON ARTIFICIAL INTELLIGENCE (ARTIFICIAL INTELLIGENCE ACT)) 규^(Regulation)
+은 국내적 수용 절차 없이 모든 회원국 내에서 효력을 갖는다. 외교부,「EU 정책 브리핑』(2007), 的-的면.
+2) Stanford University Human-Centered Artificial Intelligence, rArtificial Intelligence Index Report 2024_v (2024), p.4.
+3) 유럽연합의 인공지능에 관한 규범과 거버넌스 형성은 유럽연합 시장 전체에 엄격한 규제를 규범화하여 유럽연합 시장에 진출하려는 국가에서도 이를
+준수하도록 함으로써，유럽연합이 형성한 규제가 세계적으로 구속력을 미친다는 의미의 ‘브튀셀 효과’(Brussels Effect)를 갖는다고 평가된다.
+Charlotte Siegmann • Markus Anderljung ‘The Brussels Effect and Artificial Intelligence: How EU regulation will impact the global AI market".
+Centre for the Governance of AI, 2022.8.
+4) GOV.UK, ''UK artificial intelligence regulation impact assessment RPC-DCMS-5260(1)B, (23 March 2023).
+(04)
+유럽연합 인공지능법(EU Al ACT)의 록성과 쟁점
+n . 유럽연합 인공지능법의 형성 연혁과 특성
+1. 유럽연합의 인공지능 관련 법제 형성 과정
+유럽연합이 본격적으로 인공지능 기술에 대한 구속력 있는 규범을 제정하려는 논의는 유럽연합 집행위원회 위원장
+폰 데어 라이엔〇/on der Leyen)의 공약에서 시작되었다. 폰 데어 라이엔 위원장은 위원장 후보 정책 공약집에서 시에
+대한 유럽연합의 조직적 접근 계획을 모색하기 위한 법안을 제출할 것을 언급하였고,5) 2019년도 취임 직후
+‘인간의 안전과 권리를 존중하는 새로운 인공지능 규범’을 마련한다는 내용을 포함한 디지털 혁신 전략 계획을
+발표하였다.6) 이러한 유럽연합의 인공지능 규범화 논의는 AI 윤리 규범과 규제 정책이 반영된 것으로 유럽 이사회는
+2017.10.19. 유럽연합 집행위원회에 시에 관한 유럽의 접근 전략을 제안할 것을 권고하였고7) 유럽연합 집행위원회는
+2018. 4. 25. 유럽을 위한 AI 정책 추진안을 발표하였다.® 이후 유럽연합 집행위원회는 시에 대한 고위급 전문가 그룹
+(High-Level Expert group on AI, HLEG)을 중심으로 유럽연합의 인공지능 기술에 대한 비구속적인 윤리 원칙인 1■신뢰할 수
+있는 AI에 대한 윤리지침iHLEG AI, 2019)을 제정하였다®
+5) Ursula von der Leyen, “A Union that strives for more. My agenda for Bjrope By Candidate for President of the European Commission”, Political
+Guidelines for the Next 티jropean commission 2019-2024, (2018), p. 13,； 김건우 편저/한국포스트휴먼연구소 * 한국포스트휴먼학회,「인공지능
+규제 거버넌스의 현재와 미래ᅩ 파이돈, (2023), 151면.
+6) E니ropean Commission, “A Union that strives for more the first 100 days”, (6 March 2020), https://ec.europa.eu/commission/presscorner/detail/
+en/ip_20_403 (2024.5.23. 확인).
+7) European Council, “&jropean Council meeting-Conclusion EUCO", 2017, p. 7; 김건우 편저/한국포스트휴먼연구소 • 한국포스트휴먼학회,「인공지능
+규제 거버넌스의 현재와 미래i 파이돈, (2023), 152면.
+8) European Commission, “Communication Artificial Intelligence for Europe”, 25 April 2018; 김건우 편저/한국포스트휴먼연구소 • 한국포스트휴먼
+학회,「인공지능 규제 거버넌스의 현재와 미래a 파이돈, (2023), 152면.
+9) High-Level Expert gra니p on AI, “Ethics sidelines for trustworthy AI”, (8 April 2019).
+(?)
+Artificial Intelligence Issue paper
+유럽연합 집행위원회는 시에 관한 윤리 규범 및 정책을 마련한 이후 2020. 2.19.「AI 백서 - 우수성과 신뢰에 대한
+유럽의 접근방식j을 발표하고1® 2021. 4. 21. 새로운 인공지능 규범을 제안하였다.(이하 ‘AI 법 인 AI 법안은 유럽
+연합 내에 새로운 AI 기술의 개발 및 사용에 관하여 인간이 AI 기술에 대한 주도권을 갖고 동시에 AI 기술에서
+유발될 수 있는 예측 불가능한 위험으로부터 보호받아야만 한다는 ‘인간 중심’의 가치와 신뢰할 수 있는 AI에 대한
+윤리 원칙이 반영된 통일된 법체계를 적용하기 위한 목적으로 제안되었다.12) 유럽연합 집행위원회가 제안한 AI
+법안은 2021. 9. 22. 유럽 사회경제위원히, 2021.12. 2. 유럽 지역위원히, 2021.12. 29. 유럽 중앙은행의 의견 수렴
+과정을 거쳤다. 유럽 의회는 2023. 6.14. 유럽연합 집행위원회 제안에 대한 수정안을 제안하였으며, 유럽 이사회가
+2024. 2. 13. 수정안에 합의하였다. 유럽 의회는 2024. 3. 13. 합의안을 승인 결의하였으며, 2024. 5. 21. 유럽
+이사회에서 최종 승인되었다.13)
+10) European Commission, ‘White Paper on Artificial Intelligence： a European approach to excellence and trust", (19 Feb 2020), https://commission.europaeu/
+publicatJons/white-paper-artificial-intelligence-european-approach-excellence-and-taBt_en (2024 5.23. 확안).
+11) E니ropean Commission, “Proposal for a REGULMON OF THE EUROPEAN AND OF THE COUNCIL LAYING DOWN HARMONISED RULES ON
+ARTIFICIAL INT티丄 IGENCE (ARTIFICIAL INTELLIGENCE ACT) AND AMENDING CERTAIN UNION LEGISLATIVE ACTS”, Brussels, (21. 4. 2021),
+COM(2021) 206 final.
+12) T.Madiega, “Artificial intelligence acf, European Parliament Briefing EU Legislation in Progress, (March 2024), p.2
+식 승인안은 관보 게재 후 20일 내 발효:될 것이다. European Parliament, "Artificial Intelligence Act： MEPs adopt landmark law”, (13 March 2024), https：//
+www.e

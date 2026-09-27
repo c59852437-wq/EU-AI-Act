@@ -1,0 +1,79 @@
+Metaverse Science,
+Society and Law
+Publisher:
+Vol. 2, Issue 1 (2026) SciFormat Publishing Inc.
+ISNI: 0000 0005 1449 8214
+2734 17 Avenue Southwest, Calgary,
+Alberta, Canada, T3E0A7
++15878858911
+editorial-office@sciformat.ca
+ADMINISTRATIVE AND LEGAL REGULATION OF THE USE OF
+ARTICLE TITLE ARTIFICIAL INTELLIGENCE IN THE ACTIVITIES OF LAW
+ENFORCEMENT AGENCIES
+DOI https://doi.org/10.69635/mssl.2026.2.1.34
+RECEIVED 22 December 2025
+ACCEPTED 23 March 2026
+PUBLISHED 30 March 2026
+LICENSE
+The article is licensed under a Creative Commons Attribution 4.0
+International License.
+© The author(s) 2026.
+This article is published as open access under the Creative Commons Attribution 4.0 International License (CC
+BY 4.0), allowing the author to retain copyright. The CC BY 4.0 License permits the content to be copied, adapted,
+displayed, distributed, republished, or reused for any purpose, including adaptation and commercial use, as long
+as proper attribution is provided.
+Vol.2, Issue 1 (2026): Metaverse Science, Society and Law
+ADMINISTRATIVE AND LEGAL REGULATION OF THE USE OF
+ARTIFICIAL INTELLIGENCE IN THE ACTIVITIES OF LAW
+ENFORCEMENT AGENCIES
+Oleksandr Nikitenko
+Academician of the Academy of Administrative and Legal Sciences, Doctor of Juridical Sciences, Professor,
+Honoured Lawyer of Ukraine, Ukraine
+ORCID ID: 0009-0001-6572-4072
+Olena Kryzhanovska
+Candidate of Economic Sciences, Ukraine
+Illia Zhuravel
+Postgraduate Researcher, Research Institute of Public Law, Ukraine
+ORCID ID: 0009-0004-6486-6601
+Volodymyr Zhuravel
+Postgraduate Student of the Research Institute of Public Law, Ukraine
+Bogdan Krymchanin
+Third-Year Higher Education Student, State Tax University, Ukraine
+ORCID ID: 0009-0003-4339-6658
+ABSTRACT
+The scientific study “Administrative and Legal Regulation of the Use of Artificial Intelligence in the Activities of Law
+Enforcement Agencies” examines the theoretical-legal and administrative-legal foundations for the use of artificial
+intelligence in the activities of law enforcement agencies of Ukraine. It is substantiated that the digital transformation of
+public administration in the field of ensuring the national security of the state, as well as the need to enhance the effectiveness
+of preventive and law enforcement activities, determine the active introduction of intelligent technologies into the activities
+of law enforcement agencies in the sphere of state security of Ukraine.
+It has been established that artificial intelligence in this field may be used for the analytical processing of information, the
+identification of patterns, risk forecasting, the automation of certain procedures, support for managerial decision-making, as
+well as for increasing the speed of response aimed at the prevention of offenses and threats to the state security of Ukraine.
+It has been proved that the use of artificial intelligence in law enforcement activity is of a dual nature: on the one hand, it
+contributes to improving the effectiveness of the work of law enforcement agencies; on the other hand, it gives rise to risks
+for the individual, his or her life and health, honor and dignity, inviolability, and security, which are recognized in Ukraine
+as the highest social value, as well as for the protection of sovereignty and territorial integrity and the protection of the state
+border of Ukraine [1].
+It has been clarified that the current legislation of Ukraine does not contain a coherent special regulatory legal act that would
+comprehensively govern the use of artificial intelligence in the activities of law enforcement agencies in the sphere of state
+security. Therefore, such regulation is currently carried out in a fragmented manner through the provisions of constitutional,
+administrative, information, and criminal procedural legislation of the state.
+KEYWORDS
+Artificial Intelligence, Law Enforcement Agencies, Administrative and Legal Regulation, Public Administration,
+Digitalization, Protection of Sovereignty and Territorial Integrity, Protection of The State Border of Ukraine, Protection
+of State Security
+CITATION
+Oleksandr Nikitenko, Olena Kryzhanovska, Illia Zhuravel, Volodymyr Zhuravel, Bogdan Krymchanin. (2026) Administrative and
+Legal Regulation of the Use of Artificial Intelligence in the Activities of Law Enforcement Agencies. Metaverse Science, Society
+and Law. Vol. 2, Issue 1. doi: 10.69635/mssl.2026.2.1.34
+SciFormat Publishing Inc. 1
+Vol.2, Issue 1 (2026): Metaverse Science, Society and Law
+COPYRIGHT
+© The author(s) 2026. This article is published as open access under the Creative Commons Attribution 4.0
+International License (CC BY 4.0), allowing the author to retain copyright. The CC BY 4.0 License permits the content
+to be copied, adapted, displayed, distributed, republished, or reused for any purpose, including adaptation and commercial
+use, as long as proper attribution is provided.
+Introduction
+The current stage of development of the state and society is characterized by the rapid spread of digital
+technologies,

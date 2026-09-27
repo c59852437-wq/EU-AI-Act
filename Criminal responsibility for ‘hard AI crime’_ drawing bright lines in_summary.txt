@@ -1,0 +1,75 @@
+PhD-FDEF-2025-010 Dipartimento di scienze
+Faculty of Law, Economics and Finance giuridiche, sociali e
+pedagogiche
+DISSERTATION
+Defence held on 6 June 2025 in Luxembourg
+to obtain the degree of
+DOCTEUR DE L’UNIVERSITÉ DU LUXEMBOURG
+EN DROIT
+AND
+DOTTORE DI RICERCA IN DIRITTO PENALE
+by
+Leonardo ROMANÒ
+Born on 31 July 1995 in Viterbo (VT) (Italy)
+Criminal responsibility for ‘hard AI crime’: drawing bright lines in
+the aftermath of the EU AI Act
+Dissertation defence committee
+Prof. Dr Silvia ALLEGREZZA, Supervisor
+Associate professor in Criminal Law, UNIVERSITÉ DU LUXEMBOURG / Esch-sur-Alzette / Luxembourg
+Prof. Dr Carlo SOTIS, Co-Supervisor
+UNIVERSITY OF TUSCIA / Viterbo / Italy
+Prof. Dr Joana MENDES, Chair
+Full professor in Comparative and Administrative Law, UNIVERSITÉ DU LUXEMBOURG / Esch-sur-Alzette /
+Luxembourg
+Prof. Dr Rosa Anna RUGGIERO, Vice-Chair
+Associate Professor, UNIVERSITÀ DELLA TUSCIA / Viterbo / Italy
+Prof. Dr Vittorio MANES, Member
+full professor, UNIVERSITÀ DI BOLOGNA / Bologna / Italy
+Prof. Dr Adan NIETO MARTIN, Member
+full professor, UNIVERSIDAD CASTILLA LA MANCHA / Ciudad Real / Spain
+ii
+A Giulia, a Camilla, ai miei genitori, a mia nonna,
+maestri d’Amore inconsapevoli,
+convinti che chi segue quel faro, presto o tardi, ritrovi la via.
+‘Come l’acqua che scorre attraverso varchi e fessure, fermandosi, deviando e
+rifluendo per trovare la strada migliore (spesso del tutto inattesa), così anche i
+ricercatori devono essere disposti a esplorare molteplici approcci e a fallire
+ripetutamente lungo il percorso.’
+Gianrico Carofiglio – Elogio dell’ignoranza e dell’errore
+iii
+iv
+TABLE OF CONTENTS
+Chapter I – Setting the stage: when Artificial Intelligence meets crime .......................... 1
+1. Criminal law in the age of AI crime ..................................................................................... 2
+2. Framing the legal problem: AI responsibility gaps and the limits of criminal law ...... 9
+3. Research questions and structure of the study .................................................................17
+4. Methodological choices and their limits ...........................................................................20
+Chapter II – The evolution of AI as a challenge for criminal law theory.....................26
+1. A framework for discussing AI: what it is and what it is not ..............................................27
+1.1. Imagining AI: a short history of intelligent systems ..................................... 27
+1.2. Creating AI: the ability to learn and the role of big data.......................................36
+1.3. Disentangling AI: strong vs weak AI.......................................................... 43
+1.4. Defining AI: a pointless exercise? Towards a working definition for criminal
+lawyers. .........................................................................................................................................47
+2. Machines beyond human control: from human-caused to AI-caused harm ..................53
+2.1. Accidents will happen: the case of deviant AI ........................................................53
+2.2. Defining AI crime ........................................................................................................59
+2.3. A socio-technical framework for understanding AI crime ...................................69
+2.4. Addressing AI crime through the lens of criminal law: why a responsibility gap?
+……………………………………………………………………………………………………………………...78
+3. Regulating AI risks: the EU AI Act ........................................................................................84
+3.1. The concept of AI risk in the modern criminal law theory .................................84
+3.2. The AI Act’s risk-based approach and its impact on criminal law .....................91
+3.3. The role of criminal law in the context of the EU risk-based framework: defining
+permissible AI risks ................................................................................................................ 101
+Chapter III – AI provider’s criminal liability: current failures and potential fixes
+1. The failures of existing imputation models ........................................................................ 107
+v
+1.1. Establishing criminal negligence for AI providers .............................................. 107
+1.2. The failure of actus reus: lost in causation ........................................................... 114
+1.2.1. Relational complexity: the ‘many hands’ problem ............................................. 114
+1.2.2. Technical complexity: from ‘causal black box’ to ‘novus actus interveniens’ 117
+1.2.3. Overcoming the causality issue: technical and theoretical solutions ............... 127
+1.3. The failure of mens rea: culpability without boundaries? ................................. 133
+2. The balanced approach: limiting provider’s liability by defining acceptable risk ....... 139
+2.1. Establishing legal duties: ex ante and ex p
