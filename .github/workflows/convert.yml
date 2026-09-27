@@ -1,0 +1,36 @@
+name: PDF to TXT Auto Convert
+on:
+  push:
+    paths:
+      - '**.pdf'
+  workflow_dispatch:
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - name: Install pdfplumber
+        run: pip install pdfplumber
+      - name: Convert PDF to TXT
+        run: |
+          python -c "
+          import glob, pdfplumber, os
+          for pdf in glob.glob('*.pdf'):
+              txt_name = pdf.replace('.pdf', '_summary.txt')
+              if not os.path.exists(txt_name):
+                  with pdfplumber.open(pdf) as p:
+                      text = '\n'.join([page.extract_text() or '' for page in p.pages])
+                  with open(txt_name, 'w', encoding='utf-8') as f:
+                      f.write(text[:5000])
+          "
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add *.txt
+          git commit -m "Auto converted PDF to TXT" || exit 0
+          git push
